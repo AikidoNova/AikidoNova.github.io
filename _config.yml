@@ -41,7 +41,7 @@ colors:
   
 icon:
   contact: fa-phone
-  directions: fa-compass
+  directions: fa-map-marker
   schedule: fa-calendar
   staff: fa-university
   metro: fa-train
