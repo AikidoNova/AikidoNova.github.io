@@ -55,6 +55,11 @@ fa-icon: university
         <div class="col-md-4">
             <h3>Victor Garcia</h3>
             <h4>Instructor</h4>
+            <p style="text-align:justify">
+            Victor Garcia began practicing aikido in Mexico City in 2003 under the teaching of Manuel Hernadez-sensei.
+             Upon his arrival to the DC area, he joined Aikido of Northern Virginia and has been practicing at this dojo 
+             since. He holds shodan ranks (1st degree black belt) in both aikido and Muso Shinden Ryu iaido. 
+            </p>
         </div>
     </div>
     
