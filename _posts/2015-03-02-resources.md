@@ -29,13 +29,13 @@ fa-icon: external-link
 
                 Yvonne Thelwell. An Iwama Style dojo also located in Arlington.
             </p>
-
+            <!--
             <p>
                 <a href="http://www.aikido-westreading.org">Aikido West Reading</a>
                 <br>
                 Eric Weber. West Reading, Pennsylvania
             </p>
-
+            -->
             <p>
                 <a href="http://www.aikidoeibukan.com">Aikido Eibukan</a>
                 <br>
