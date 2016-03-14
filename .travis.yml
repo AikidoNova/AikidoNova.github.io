@@ -1,7 +1,8 @@
 ### Base travis config file
 language: ruby
-cache: bundler
+#cache: bundler
 sudo: false
+exclude: [vendor]
 rvm:
 - 2.2
 script: scripts/buildJekyll.sh
