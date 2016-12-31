@@ -5,7 +5,7 @@ color: black  #text color
 style: center
 fa-icon: map-marker
 ---
-#Map
+# Map
 
 <div class='embed-container no-scroll'>
     <div class="responsive-iframe-container">
@@ -14,5 +14,6 @@ fa-icon: map-marker
 </div>
 
 
-#Metro
+# Metro
+
 The dojo is located across the street from the **Ballston Metro Station** (Orange Line), in the **Youth Building** of the **Central United Methodist Church**.
