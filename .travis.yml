@@ -7,7 +7,7 @@ rvm:
 - 2.2
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproof ./_site/index.html
+  - bundle exec htmlproofer ./_site/index.html
 after_success:
   - if [ "$TRAVIS_BRANCH" == "master" ]; then
     "scripts/uploadViaFTP.sh"

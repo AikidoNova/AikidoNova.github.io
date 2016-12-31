@@ -1,9 +1,6 @@
----
----
-
 $schedule-cell-padding: 5px;
 
-.schedule {
+.Schedule {
 
     table {
         margin: auto;
@@ -23,5 +20,5 @@ $schedule-cell-padding: 5px;
         padding-top: $schedule-cell-padding;
         padding-bottom: $schedule-cell-padding;
     }
-    
+
 }

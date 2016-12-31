@@ -49,3 +49,4 @@ icon:
 
 kramdown:
   auto_ids:  false
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
