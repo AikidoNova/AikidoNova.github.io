@@ -2,9 +2,17 @@
 # Welcome to Aikido of Northern Virginia
 
 Aikido of Northern Virginia,
-located across the street from Ballston metro station in Arlington, Northern VA,
+located a few blocks from the **Ballston metro station** in **Arlington, VA**,
 is a traditional aikido dojo afiliated to [aikikai hombu dojo](http://www.aikikai.or.jp/eng/)
 through the <a href="http://asu.org/">aikido schools of Ueshiba.
+
+## Please Note:
+
+### The dojo has relocated to The First Presbyterian Church!
+
+<h4>
+  <a href="#directions"><i class="fa {{site.icon.directions}} fa-fw"></i> Directions...</a>
+</h4>
 
 
 Aikido of Northern Virginia is a not-for-profit organization governed by a board of directors
