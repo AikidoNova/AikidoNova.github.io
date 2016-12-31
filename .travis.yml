@@ -7,4 +7,6 @@ rvm:
 - 2.2
 script: scripts/buildJekyll.sh
 after_success:
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then
     "scripts/uploadViaFTP.sh"
+    fi
