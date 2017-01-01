@@ -46,3 +46,7 @@ icon:
   staff: fa-university
   metro: fa-train
   seminar: fa-calendar-plus-o
+
+kramdown:
+  auto_ids:  false
+  input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)

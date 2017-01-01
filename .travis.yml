@@ -5,6 +5,11 @@ sudo: false
 exclude: [vendor]
 rvm:
 - 2.2
-script: scripts/buildJekyll.sh
+script:
+  - bundle exec jekyll build
+  - bundle exec htmlproofer ./_site/index.html
 after_success:
-    "scripts/uploadViaFTP.sh"
+  - echo "$TRAVIS_BRANCH"
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then
+    scripts/uploadViaFTP.sh;
+    fi

@@ -6,12 +6,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ site.title }}</title>
-    <meta name="keywords" content="{{ site.keywords }}">
-    <meta name="description" content="{{ site.description }}">
+  <meta name="keywords" content="{{ site.keywords }}">
+  <meta name="description" content="{{ site.description }}">
   <link href='http://fonts.googleapis.com/css?family=Raleway:400,300,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="combo.css">
-  <link rel="stylesheet" href="css/schedule.css">
+  <link rel="stylesheet" href="css/main.css">
 
 
   {% if site.favicon %}<link rel="shortcut icon" href="{{ site.favicon }}" type="image/x-icon">{% endif %}
@@ -21,7 +21,7 @@
     {% include google-knowledge-website.html %}
     {% include google-knowledge-graph-logo.html %}
     {% include tags.html %}
-    
+
     <nav><ul>
       {% for node in site.posts reversed %}
         {% capture id %}{{ node.id | remove:'/' | downcase }}{% endcapture %}
