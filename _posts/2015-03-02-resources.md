@@ -29,31 +29,23 @@ fa-icon: external-link
 
                 Yvonne Thelwell. An Iwama Style dojo also located in Arlington.
             </p>
-            <!--
-            <p>
-                <a href="http://www.aikido-westreading.org">Aikido West Reading</a>
-                <br>
-                Eric Weber. West Reading, Pennsylvania
-            </p>
-            -->
             <p>
                 <a href="http://www.aikidoeibukan.com">Aikido Eibukan</a>
                 <br>
                 Dwayne Bolt. King of Prussia, Pennsylvania
             </p>
-
-            <p>
-                <a href="http://www.oki-aikikai.com/">Okinawa Aikikai US Dojos</a>
-                <br>
-
-                Michael Veltri
-            </p>
-
             <p>
                 <a href="http://www.aikidoka.com/">Northern Virginia Aikikai</a>
                 <br>
 
                 Gordon Sakamoto. The USAF dojo in Arlington.
+            </p>
+            <p>
+                <a href="https://heavenandearthaikido.com">Heaven and Earth Aikido and Meditation Center</a>
+                Brian Erickesen, Dojo Cho. USAF dojo in Herdon. Fairfax County, VA. Shin Ryu Aikido.
+            </p>
+            <p>
+                <a href="http://potomacaikikai.com/">Potomac Aikikai</a> Capital Aikido Federation Dojo in Sterling, VA
             </p>
         </div>
         
@@ -85,25 +77,7 @@ fa-icon: external-link
         </div>
         <div class="col-md-3" >
             <h2>Suppliers</h2>
-
-            <!--
-
-            <p><a href="http://www.bujindesign.com/">Bu Jin Design</a><br>
-
-
-
-            2446 30th St<br>
-
-            Boulder, CO 80301<br>
-
-            303-444-7663<br>
-
-
-
-            <a href="mailto:info@bujindesign.com">Information</a></p>
-
-            -->
-
+            <p><a href="http://www.e-bogu.com/">E-Bogu</a></p>
             <p>
 
                 <a href="http://www.kingfisherwoodworks.com">Kingfisher Woodworks</a>
@@ -135,9 +109,6 @@ fa-icon: external-link
                 <a href="mailto:info@kingfisherwoodworks">Information</a>
 
             </p>
-
-
-
             <p>
 
                 <a href="http://kiyotacompany.com/">Kiyota Company, Inc.</a>
@@ -157,9 +128,6 @@ fa-icon: external-link
                 1-800-783-2232, 410-366-3540 (FAX)
 
             </p>
-
-
-
             <p>
 
                 <a href="http://www.tozandoshop.com/Default.asp">Tozando Co., Ltd (Japan)</a>
@@ -181,7 +149,7 @@ fa-icon: external-link
                 <br>
 
 
-
+            </p>
             <p>
 
                 <a href="http://www.budogu.com">Mugendo Budogu, LLC (USA)</a>
@@ -209,33 +177,16 @@ fa-icon: external-link
                 <a href="mailto:sales@budogu.com">Sales</a>
 
             </p>
-
-
-
             <p>
-
                 <a href="http://www.zanshinart.com">Zanshin Art</a>
-
                 <br>
-
                 1-888-366-8614
-
                 <br>
-
-
-
                 236 West Portal Avenue, #767
-
                 <br>
-
                 San Francisco, CA 94127
-
                 <br>
-
-
-
                 <a href="mailto:janet@zanshinart.com">Janet Rosen</a>
-
             </p>
         </div>
     </div>
