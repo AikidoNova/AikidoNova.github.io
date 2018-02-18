@@ -44,11 +44,7 @@ fa-icon: university
             <h3>Stefan Dromlewicz</h3>
             <h4>Instructor</h4>
             <p style="text-align:justify">
-            Stefan has more than 16 years of training in Aikido, studying under Mitsunari Kanai Shihan at 
-            New England Aikikai, and, after his passing, under Kanai Sensei's most senior students. 
-            Ranked Nidan in Aikido, Stefan is also ranked Shodan in Muso Shinden Ryu Iaido. 
-            Stefan has practiced at ANOVA since 2009 and regularly attends seminars with visiting 
-            Shihan throughout the Eastern United States.
+            Stefan has more than 18 years of training in Aikido, studying under Mitsunari Kanai Shihan at New England Aikikai, and, after his passing, under Kanai Sensei's most senior students. Ranked Sandan in Aikido, Stefan is also ranked Shodan in Muso Shinden Ryu Iaido. Stefan has practiced at ANOVA since 2009, also teaches Aikido at George Mason University and regularly attends seminars with visiting Shihan throughout the Eastern United States.  Stefan is also a RYT200 (Registered Yoga Teacher) Yoga Instructor and teaches regularly at Live Out Loud Yoga in La Plata, MD.
             </p>
         </div>
         
